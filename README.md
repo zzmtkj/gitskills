@@ -6,5 +6,5 @@ git checkout -b feature1
 git branch
 ==============================
 git checkout -b feature1
-git zzmtkj
+git zzmtkj simple & fast
 
