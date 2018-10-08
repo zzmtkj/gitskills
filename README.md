@@ -1,2 +1,2 @@
 # gitskills
-This file is in dev branch.
+Creating a new branch is quick And simple.
