@@ -6,5 +6,5 @@ git checkout -b feature1
 git branch
 ==============================
 git checkout -b feature1
-git nick
+git branch is simple and fast.
 
