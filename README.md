@@ -4,3 +4,7 @@ This file is created by dev.
 creating a new branch is quick.
 git checkout -b dev
 git branch
+==============================
+git checkout -b feature1
+git branch
+
