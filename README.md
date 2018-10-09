@@ -6,3 +6,6 @@ git checkout -b feature1
 git zzmtkj simple and fast
 powered by nick.
 bug is ok!
+======================
+this is write in feature2 branch 
+
