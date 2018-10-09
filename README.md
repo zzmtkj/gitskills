@@ -7,5 +7,5 @@ git zzmtkj simple and fast
 powered by nick.
 bug is ok!
 ======================
-this is write in feature2 branch 
+this is write in feature2 branch Simple & Fast. 
 
